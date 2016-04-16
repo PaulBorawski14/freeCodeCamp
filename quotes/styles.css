@@ -1,2 +1,6 @@
-body { color: #333; font: 20px georgia; }
-em { color: #555; font-size: 90%; }
+#box {
+  background-color: black;
+  color: white;
+  font-family: verdana;
+  text-align: center;
+}
